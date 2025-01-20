@@ -1,0 +1,11 @@
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\verification_employee.exe
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\verification_employee.dll
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\verification_employee.deps.json
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\verification_employee.runtimeconfig.json
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\verification_employee.pdb
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\# GROW\Assignement\API\verification_employee\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

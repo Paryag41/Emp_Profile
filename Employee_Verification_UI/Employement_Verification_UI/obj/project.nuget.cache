@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8RmVbInzu3A=",
+  "success": true,
+  "projectFilePath": "D:\\# GROW\\Assignement\\Employee_Verification_UI\\Employement_Verification_UI\\Employement_Verification_UI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paryag.singla\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Paryag.singla\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Paryag.singla\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Paryag.singla\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\Paryag.singla\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.36\\microsoft.netcore.app.host.win-x64.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

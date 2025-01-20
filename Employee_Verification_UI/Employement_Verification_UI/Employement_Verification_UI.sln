@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employement_Verification_UI", "Employement_Verification_UI.csproj", "{7EB820EC-7721-4467-8682-B0644A0E8901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EB820EC-7721-4467-8682-B0644A0E8901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EB820EC-7721-4467-8682-B0644A0E8901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EB820EC-7721-4467-8682-B0644A0E8901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EB820EC-7721-4467-8682-B0644A0E8901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD8F9D0E-3D14-48B0-8B12-1A23DBB05867}
+	EndGlobalSection
+EndGlobal

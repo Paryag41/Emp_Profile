@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\# GROW\\Assignement\\API\\verification_employee\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|d:\\# grow\\assignement\\api\\verification_employee\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|d:\\# grow\\assignement\\api\\verification_employee\\service\\employmentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|solutionrelative:service\\employmentverificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|d:\\# grow\\assignement\\api\\verification_employee\\memorysampledt\\inmemoryemployeedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|solutionrelative:memorysampledt\\inmemoryemployeedatastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|d:\\# grow\\assignement\\api\\verification_employee\\controllers\\verifyemploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12C3BD90-A4F6-4FE9-A75B-E13B1892CA2C}|verification_employee.csproj|solutionrelative:controllers\\verifyemploymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\# GROW\\Assignement\\API\\verification_employee\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\# GROW\\Assignement\\API\\verification_employee\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T06:04:07.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmploymentVerificationService.CS",
+              "DocumentMoniker": "D:\\# GROW\\Assignement\\API\\verification_employee\\Service\\EmploymentVerificationService.CS",
+              "RelativeDocumentMoniker": "Service\\EmploymentVerificationService.CS",
+              "ToolTip": "D:\\# GROW\\Assignement\\API\\verification_employee\\Service\\EmploymentVerificationService.CS",
+              "RelativeToolTip": "Service\\EmploymentVerificationService.CS",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:10:22.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InMemoryEmployeeDataStore.cs",
+              "DocumentMoniker": "D:\\# GROW\\Assignement\\API\\verification_employee\\MemorySampleDt\\InMemoryEmployeeDataStore.cs",
+              "RelativeDocumentMoniker": "MemorySampleDt\\InMemoryEmployeeDataStore.cs",
+              "ToolTip": "D:\\# GROW\\Assignement\\API\\verification_employee\\MemorySampleDt\\InMemoryEmployeeDataStore.cs",
+              "RelativeToolTip": "MemorySampleDt\\InMemoryEmployeeDataStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:11:29.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VerifyEmploymentController.cs",
+              "DocumentMoniker": "D:\\# GROW\\Assignement\\API\\verification_employee\\Controllers\\VerifyEmploymentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VerifyEmploymentController.cs",
+              "ToolTip": "D:\\# GROW\\Assignement\\API\\verification_employee\\Controllers\\VerifyEmploymentController.cs",
+              "RelativeToolTip": "Controllers\\VerifyEmploymentController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T17:08:59.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

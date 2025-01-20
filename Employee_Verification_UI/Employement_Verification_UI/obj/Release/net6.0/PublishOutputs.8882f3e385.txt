@@ -1,0 +1,8 @@
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\Employement_Verification_UI.exe
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\Employement_Verification_UI.dll
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\Employement_Verification_UI.deps.json
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\Employement_Verification_UI.runtimeconfig.json
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\Employement_Verification_UI.pdb
+D:\# GROW\Assignement\Employee_Verification_UI\Employement_Verification_UI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll

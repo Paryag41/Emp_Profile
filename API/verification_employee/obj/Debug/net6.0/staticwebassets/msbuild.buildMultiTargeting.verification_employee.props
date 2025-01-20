@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\verification_employee.props" />
+</Project>
